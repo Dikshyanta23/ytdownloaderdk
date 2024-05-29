@@ -6,6 +6,6 @@
     "ytdl-core": "^4.11.5"
   },
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   }
 }
